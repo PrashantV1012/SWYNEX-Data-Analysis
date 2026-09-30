@@ -113,7 +113,11 @@ A static dashboard snapshot is included as `dashboard_snapshot.png`. The supplie
 - Shipping cost cannot be interpreted as profit.
 - Findings describe this dataset and should not automatically be generalized beyond it.
 
-
+## Project Structure
+|_Raw-Data.xlsx
+|_cleaned-Data.xlsx
+|_Dashboard.pdix
+|_Final_Project_Report.pdf
 
 ## Tools
 - Excel — data storage / cleaning validation
